@@ -23,3 +23,6 @@ Prav tako bo aplikacija uporabljala tuje vire:
 - Image rekognition api (Na ta način bomo dobili dodatne informacije o sliki/delu avtorja).
 - API za pretvorbo valut (za ceno ogleda razstave)
 
+## Shema arhitekture
+
+![](shema.jpg)
